@@ -1,5 +1,67 @@
-a:link {
-    color: white;
-    background-color: transparent;
-    text-decoration: none;
-  }
+*{
+  text-align: center;
+}
+
+.first-nav{
+padding: 0 15%;
+}
+
+.capa{
+  background-color: white;
+  color: #198754;
+  padding: 10px;
+}
+
+.navbar-toggler {
+border-color: white;
+color: white;
+outline-color: white;
+}
+
+.nav-link {
+  color: white;
+}
+
+.second-container{
+  background-image: url(Img/bg.png);
+  text-align: center;
+  padding: 20%;
+  margin: 0;
+}
+
+.h1{
+  color: white;
+  font-weight: bold;
+}
+
+.h3{
+  color: #198754;
+}
+
+.last-container{
+background-color: #303841;
+color: white;
+margin-bottom: 0;
+}
+
+.second6{
+  font-size: 14px;
+}
+
+.socials{
+  margin-right: 15px;
+  text-decoration: none;
+
+}
+
+.hr2{
+  border:2px solid rgb(10, 212, 10);
+  margin: 0;
+  margin-top: 5px;
+}
+
+.footer-div{
+  margin-top: 20px;
+  margin-bottom: 0;
+  padding: 20px 150px;
+}
